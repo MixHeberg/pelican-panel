@@ -34,6 +34,7 @@ return [
         'clear' => 'Clear',
         'set_to_cf' => 'Set to Cloudflare IPs',
         'display_width' => 'Display Width',
+        'avatar_provider' => 'Avatar Provider',
     ],
     'captcha' => [
         'enable' => 'Enable',
@@ -59,10 +60,7 @@ return [
             'port' => 'Port',
             'username' => 'Username',
             'password' => 'Password',
-            'encryption' => 'Encryption',
-            'ssl' => 'SSL',
-            'tls' => 'TLS',
-            'none' => 'None',
+            'scheme' => 'Scheme',
         ],
         'mailgun' => [
             'mailgun_title' => 'Mailgun Configuration',
